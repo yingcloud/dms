@@ -2,7 +2,6 @@ branch
 dms
 ===
 
-check pull
 
 document management system
 
